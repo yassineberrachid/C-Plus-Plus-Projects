@@ -4,7 +4,8 @@ Thus, the program takes input from the standard input, parse it, verify that it 
 The second part implements a simple database of objects that stores the created shapes. To do so, we implement a class called Shape that is used to store the shape properties. We also create and maintain a dynamically allocated array of pointers to Shape objects to keep track of Shape objects created and deleted.
         
 ![Capture](https://user-images.githubusercontent.com/95399226/147856293-38885e1f-f37d-42a5-936c-6e1996fa7728.PNG)
-                                                        Figure 1: Error checking priorities for user input
+                                                      
+                                                    Figure 1: Error checking priorities for user input
 
 
                                          
