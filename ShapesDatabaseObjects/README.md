@@ -7,7 +7,9 @@ The second part implements a simple database of objects that stores the created 
                                           Figure 1: Error checking priorities for user input
 
 
-       ![2](https://user-images.githubusercontent.com/95399226/147856269-2374dd76-3b3e-4d0a-b257-96387731f060.PNG)
+                                         
+![2](https://user-images.githubusercontent.com/95399226/147856330-b897d990-1145-4dfc-9dbd-75945ee53f36.PNG)
+
                                           Figure 2: Example of a sequence of commands inputed by the user
                                          
                                          
