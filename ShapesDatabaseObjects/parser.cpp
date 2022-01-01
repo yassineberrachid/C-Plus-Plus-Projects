@@ -16,8 +16,6 @@ int shapeCount = 0;
 // The value of the argument to the maxShapes command
 int max_shapes;
 
-// ECE244 Student: you may want to add the prototype of
-// helper functions you write here
 
 void ErrorMessage(int number){
     if(number==0){
