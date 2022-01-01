@@ -1,16 +1,3 @@
-//
-//  ShapeList.h
-//  Lab4
-//
-//  Created by Tarek Abdelrahman on 2020-10-25.
-//  Copyright © 2020 Tarek Abdelrahman.
-//
-//  Permission is hereby granted to use this code in ECE244 at
-//  the University of Toronto. It is prohibited to distribute
-//  this code, either publicly or to third parties.
-
-// ***********  ECE244 Student: DO NOT MODIFY THIS FILE  ***********
-
 #ifndef ShapeList_h
 #define ShapeList_h
 
